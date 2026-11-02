@@ -1,0 +1,8 @@
+pyserial
+pandas
+matplotlib
+scikit-learn
+joblib
+Pillow
+# Optional: live camera panel
+# opencv-python
