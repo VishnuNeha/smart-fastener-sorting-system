@@ -164,3 +164,9 @@ The dashboard logs `Metal`, `Height`, `Red`, `Green`, `Blue` and the STM32's acc
 ## 📄 License
 
 Released under the [MIT License](LICENSE).
+## 🙋 Author
+
+**Natti Vishnu Neha** · [GitHub](https://github.com/VishnuNeha) · [LinkedIn](https://linkedin.com/in/natti-vishnu-neha/)
+
+If this helped you, please ⭐ the repo!
+
